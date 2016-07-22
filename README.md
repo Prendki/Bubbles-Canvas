@@ -1,5 +1,12 @@
 # Bubbles-Canvas
 
+> Include Library (In Header)
+
+```HTML
+<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/canvasjs.min.js"></script>
+```
+
 > Include Java Scipt (End of Body)
 
 ```HTML
