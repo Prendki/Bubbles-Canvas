@@ -10,11 +10,10 @@
 <section id="s_backgroundSection">
   <canvas id="canvas" name="bubble"></canvas>
 </section>
-
+```
 > CSS
 
 ```CSS
-<style>
   #s_backgroundSection {
     position: absolute;
     width: 100%;
@@ -38,8 +37,7 @@
     position:relative;
     z-index:1;
   }
-  </style>
-
+```
 
 
 
