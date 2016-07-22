@@ -2,7 +2,9 @@
 
 > Include Java Scipt (End of Body)
 
-<script src="./javascripts/script.js"></script>
+```HTML
+<script src="script.js"></script>
+```
 
 > HTML
 
