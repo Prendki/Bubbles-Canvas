@@ -1,5 +1,7 @@
 # Bubbles-Canvas
+
 > Include Java Scipt (End of Body)
+
 <script src="./javascripts/script.js"></script>
 
 > HTML
